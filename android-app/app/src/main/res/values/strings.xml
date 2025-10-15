@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Detector de Emociones</string>
+    <string name="emotion_detection">Detectar Emociones</string>
+    <string name="seleccionar_imagen">Seleccionar Imagen</string>
+    <string name="imagen_seleccionada">Imagen seleccionada</string>
+    <string name="predecir_emoci_n">Predecir Emoción</string>
+    <string name="analizar_guardar">Analizar y Guardar</string>
+    <string name="informacion_contacto">Información del contacto</string>
+    <string name="estadisticas_emociones">Estadísticas de Emociones</string>
+    <string name="lista_contactos">Lista de Contactos</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1023458160125",
+    "project_id": "emotionsdb-f9509",
+    "storage_bucket": "emotionsdb-f9509.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023458160125:android:cc898789e057252f483d94",
+        "android_client_info": {
+          "package_name": "com.cinver.detection_face_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaNmh_i7eDJBHJKNszI3Fi6zKMGJ6veFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
